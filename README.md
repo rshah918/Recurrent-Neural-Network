@@ -1,4 +1,4 @@
-# Recurrent-Neural-Network
+# Recurrent-Neural-Network-Implementation
 I scratch implemented a vanilla recurrent neural network without using any deep learning libraries. I trained my network to learn a sine wave
 
 # How to Use:
